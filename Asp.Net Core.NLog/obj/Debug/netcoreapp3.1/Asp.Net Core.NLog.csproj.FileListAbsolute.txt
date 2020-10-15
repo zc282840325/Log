@@ -1,0 +1,49 @@
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\appsettings.json
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Asp.Net Core.NLog.exe
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.AssemblyInfoInputs.cache
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.AssemblyInfo.cs
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.RazorTargetAssemblyInfo.cache
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net Core.NLog.StaticWebAssets.Manifest.cache
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net Core.NLog.StaticWebAssets.xml
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\NLog.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.csproj.CopyComplete
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\NLog.config
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Asp.Net Core.NLog.deps.json
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Asp.Net Core.NLog.runtimeconfig.json
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Asp.Net Core.NLog.runtimeconfig.dev.json
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Asp.Net Core.NLog.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Asp.Net Core.NLog.pdb
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.dll
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.pdb
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.genruntimeconfig.cache
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.csprojAssemblyReference.cache
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\zc\Studying\Asp.Net Core.NLog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.csproj.CoreCompileInputs.cache
+D:\zc\Studying\Asp.Net Core.NLog\obj\Debug\netcoreapp3.1\Asp.Net Core.NLog.MvcApplicationPartsAssemblyInfo.cache

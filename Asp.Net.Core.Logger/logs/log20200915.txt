@@ -1,0 +1,81 @@
+2020-09-15 10:14:41.652 +08:00 [INF] Now listening on: http://localhost:5000
+2020-09-15 10:14:41.728 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-09-15 10:14:41.729 +08:00 [INF] Hosting environment: Development
+2020-09-15 10:14:41.730 +08:00 [INF] Content root path: D:\zc\Studying\Asp.Net.Core.Logger
+2020-09-15 10:14:42.209 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2020-09-15 10:14:42.553 +08:00 [INF] Executing endpoint 'Asp.Net.Core.Logger.Controllers.WeatherForecastController.Get (Asp.Net.Core.Logger)'
+2020-09-15 10:14:42.655 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Asp.Net.Core.Logger.WeatherForecast] Get() on controller Asp.Net.Core.Logger.Controllers.WeatherForecastController (Asp.Net.Core.Logger).
+2020-09-15 10:14:42.665 +08:00 [INF] LogInformation
+2020-09-15 10:14:42.673 +08:00 [WRN] LogWarning
+2020-09-15 10:14:42.674 +08:00 [ERR] LogError
+2020-09-15 10:14:42.675 +08:00 [INF] LogInformation
+2020-09-15 10:14:42.676 +08:00 [WRN] LogWarning
+2020-09-15 10:14:42.676 +08:00 [ERR] LogError
+2020-09-15 10:14:42.677 +08:00 [INF] LogInformation
+2020-09-15 10:14:42.678 +08:00 [WRN] LogWarning
+2020-09-15 10:14:42.679 +08:00 [ERR] LogError
+2020-09-15 10:14:42.680 +08:00 [INF] LogInformation
+2020-09-15 10:14:42.681 +08:00 [WRN] LogWarning
+2020-09-15 10:14:42.683 +08:00 [ERR] LogError
+2020-09-15 10:14:42.685 +08:00 [INF] LogInformation
+2020-09-15 10:14:42.686 +08:00 [WRN] LogWarning
+2020-09-15 10:14:42.688 +08:00 [ERR] LogError
+2020-09-15 10:14:42.707 +08:00 [INF] Executing ObjectResult, writing value of type 'Asp.Net.Core.Logger.WeatherForecast[]'.
+2020-09-15 10:14:42.763 +08:00 [INF] Executed action Asp.Net.Core.Logger.Controllers.WeatherForecastController.Get (Asp.Net.Core.Logger) in 90.5801ms
+2020-09-15 10:14:42.829 +08:00 [INF] Executed endpoint 'Asp.Net.Core.Logger.Controllers.WeatherForecastController.Get (Asp.Net.Core.Logger)'
+2020-09-15 10:14:42.858 +08:00 [INF] Request finished in 662.1318ms 200 application/json; charset=utf-8
+2020-09-15 10:14:43.031 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2020-09-15 10:14:43.038 +08:00 [INF] Request finished in 6.4772ms 404 
+2020-09-15 10:15:15.880 +08:00 [INF] Application is shutting down...
+2020-09-15 10:20:57.571 +08:00 [INF] Now listening on: http://localhost:5000
+2020-09-15 10:20:57.644 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-09-15 10:20:57.645 +08:00 [INF] Hosting environment: Development
+2020-09-15 10:20:57.646 +08:00 [INF] Content root path: D:\zc\Studying\Asp.Net.Core.Logger
+2020-09-15 10:20:58.300 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/weatherforecast  
+2020-09-15 10:20:58.419 +08:00 [INF] Executing endpoint 'Asp.Net.Core.Logger.Controllers.WeatherForecastController.Get (Asp.Net.Core.Logger)'
+2020-09-15 10:20:58.535 +08:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Asp.Net.Core.Logger.WeatherForecast] Get() on controller Asp.Net.Core.Logger.Controllers.WeatherForecastController (Asp.Net.Core.Logger).
+2020-09-15 10:20:58.552 +08:00 [INF] LogInformation
+2020-09-15 10:20:58.554 +08:00 [WRN] LogWarning
+2020-09-15 10:20:58.554 +08:00 [ERR] LogError
+2020-09-15 10:20:58.556 +08:00 [INF] LogInformation
+2020-09-15 10:20:58.558 +08:00 [WRN] LogWarning
+2020-09-15 10:20:58.561 +08:00 [ERR] LogError
+2020-09-15 10:20:58.562 +08:00 [INF] LogInformation
+2020-09-15 10:20:58.563 +08:00 [WRN] LogWarning
+2020-09-15 10:20:58.565 +08:00 [ERR] LogError
+2020-09-15 10:20:58.566 +08:00 [INF] LogInformation
+2020-09-15 10:20:58.567 +08:00 [WRN] LogWarning
+2020-09-15 10:20:58.568 +08:00 [ERR] LogError
+2020-09-15 10:20:58.569 +08:00 [INF] LogInformation
+2020-09-15 10:20:58.570 +08:00 [WRN] LogWarning
+2020-09-15 10:20:58.571 +08:00 [ERR] LogError
+2020-09-15 10:20:58.581 +08:00 [INF] Executing ObjectResult, writing value of type 'Asp.Net.Core.Logger.WeatherForecast[]'.
+2020-09-15 10:20:58.622 +08:00 [INF] Executed action Asp.Net.Core.Logger.Controllers.WeatherForecastController.Get (Asp.Net.Core.Logger) in 60.3664ms
+2020-09-15 10:20:58.635 +08:00 [INF] Executed endpoint 'Asp.Net.Core.Logger.Controllers.WeatherForecastController.Get (Asp.Net.Core.Logger)'
+2020-09-15 10:20:58.647 +08:00 [INF] Request finished in 357.8988ms 200 application/json; charset=utf-8
+2020-09-15 10:21:00.231 +08:00 [INF] Application is shutting down...
+2020-09-15 10:21:18.535 +08:00 [INF] LogInformation
+2020-09-15 10:21:18.646 +08:00 [WRN] LogWarning
+2020-09-15 10:21:18.647 +08:00 [ERR] LogError
+2020-09-15 10:21:18.649 +08:00 [INF] LogInformation
+2020-09-15 10:21:18.650 +08:00 [WRN] LogWarning
+2020-09-15 10:21:18.651 +08:00 [ERR] LogError
+2020-09-15 10:21:18.651 +08:00 [INF] LogInformation
+2020-09-15 10:21:18.652 +08:00 [WRN] LogWarning
+2020-09-15 10:21:18.652 +08:00 [ERR] LogError
+2020-09-15 10:21:18.653 +08:00 [INF] LogInformation
+2020-09-15 10:21:18.653 +08:00 [WRN] LogWarning
+2020-09-15 10:21:18.654 +08:00 [ERR] LogError
+2020-09-15 10:21:18.654 +08:00 [INF] LogInformation
+2020-09-15 10:21:18.656 +08:00 [WRN] LogWarning
+2020-09-15 10:21:18.656 +08:00 [ERR] LogError
+2020-09-15 10:21:35.225 +08:00 [WRN] LogWarning
+2020-09-15 10:21:35.350 +08:00 [ERR] LogError
+2020-09-15 10:21:35.353 +08:00 [WRN] LogWarning
+2020-09-15 10:21:35.354 +08:00 [ERR] LogError
+2020-09-15 10:21:35.355 +08:00 [WRN] LogWarning
+2020-09-15 10:21:35.356 +08:00 [ERR] LogError
+2020-09-15 10:21:35.357 +08:00 [WRN] LogWarning
+2020-09-15 10:21:35.358 +08:00 [ERR] LogError
+2020-09-15 10:21:35.360 +08:00 [WRN] LogWarning
+2020-09-15 10:21:35.362 +08:00 [ERR] LogError

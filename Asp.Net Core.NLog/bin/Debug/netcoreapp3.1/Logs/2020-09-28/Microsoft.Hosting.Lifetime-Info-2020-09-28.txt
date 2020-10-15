@@ -1,0 +1,4 @@
+2020-09-28 15:03:19.8197 | Now listening on: http://localhost:5000 
+2020-09-28 15:03:19.8752 | Application started. Press Ctrl+C to shut down. 
+2020-09-28 15:03:19.8794 | Hosting environment: Development 
+2020-09-28 15:03:19.8794 | Content root path: D:\zc\Studying\Asp.Net Core.NLog 
